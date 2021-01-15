@@ -11,13 +11,19 @@
   <body>
 {{-- header Part --}}
 
-@yield('header')
+    @yield('header')
     
 {{-- Ends header Part --}}
 
 {{-- Body Part --}}
 
     @yield('body')
+    
+{{-- Ends Body Part --}}
+
+{{-- Footer Part (Kalo Ada) --}}
+
+    @yield('footer')
     
 {{-- Ends Body Part --}}
   </body>

@@ -78,8 +78,8 @@
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Deleniti odit repellendus possimus totam veniam accusamus voluptatibus temporibus, libero dignissimos sequi eveniet, porro placeat dolores error voluptate dicta. Distinctio, enim eaque.
                     Lorem ipsum dolor sit amet consectetur adipisicing elit. Totam cumque quisquam odit alias pariatur nam expedita dolorem modi vel corporis cum accusantium assumenda facere amet ipsam architecto odio, provident commodi?
                     Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae nisi voluptatem labore totam magni molestias voluptas doloribus error sit nihil voluptates a ab, facere velit corporis doloremque maiores rerum quas.
-                </p>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aut excepturi debitis inventore earum rem incidunt expedita praesentium, quas et ut nemo sapiente neque maxime velit commodi aspernatur distinctio necessitatibus iure!
+                <br><br>
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Aut excepturi debitis inventore earum rem incidunt expedita praesentium, quas et ut nemo sapiente neque maxime velit commodi aspernatur distinctio necessitatibus iure!
                     Lorem ipsum dolor sit amet consectetur adipisicing elit. Nesciunt odit, facere neque ut ipsa, placeat porro impedit perferendis laudantium labore delectus. Quidem voluptatem similique fugiat? Voluptatum aliquam ab totam voluptate!
                     Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam, laborum numquam deserunt optio quae voluptatem modi sapiente debitis officia culpa, molestiae voluptatibus quaerat porro hic. Molestias sint iure commodi quidem.
                 </p>
@@ -89,5 +89,65 @@
 @endsection
 
 @section('footer')
-    
+    <div class="footer1">
+        <div class="co-footer1">
+            <div class="co-link1">
+                <div class="link1">
+                    <p class="headlink1">
+                        About Us
+                    </p>
+                    <p class="listlink1">
+                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestiae, eius modi harum soluta molestias corporis magnam ipsa cum unde? Dolorum accusantium provident quod amet.
+                    </p>
+                </div>
+                <div class="link1">
+                    <p class="headlink1">
+                        Informations
+                    </p>
+                    <p class="listlink1">
+                        About Us <br>
+                        More Search <br>
+                        Blog <br>
+                        Testimonial <br>
+                        Events <br>
+                    </p>
+                </div>
+                <div class="link1">
+                    <p class="headlink1">
+                        Helpful Links
+                    </p>
+                    <p class="listlink1">
+                        Services <br>
+                        Supports <br>
+                        Terms Of Condition <br>
+                        Privacy & Policy <br>
+                    </p>
+                </div>
+                <div class="link1">
+                    <p class="headlink1">
+                        Contact Us
+                    </p>
+                    <p class="listlink1">
+                        +64 8712124121
+                        <br>
+                        Siaptaluh@gmail.com
+                    </p>
+                </div>
+            </div>
+            <div class="co-line1">
+                <img src="/css/img/line.jpg" alt="">
+            </div>
+            <div class="co-socialmedia1">
+                <a href="">
+                    <img src="/css/img/instagram.png" alt="" class="img-socialmedia1">
+                </a>
+                <a href="">
+                    <img src="/css/img/twitter.png" alt=""  class="img-socialmedia1">
+                </a>
+                <a href="">
+                    <img src="/css/img/facebook.png" alt=""  class="img-socialmedia1">
+                </a>
+            </div>
+        </div>
+    </div>
 @endsection
