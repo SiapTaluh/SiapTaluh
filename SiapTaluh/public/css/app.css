@@ -18,6 +18,7 @@ body{
     z-index: 1;
     width: 100%;
     border-bottom: 1px solid #89AA3A;
+    border-top: 1px solid #89AA3A;
 }
 .co-logonama1{
     width: 15%;
@@ -140,11 +141,16 @@ body{
 .img-desc1{
     width: 100%;
 }
+.kenapa1{
+    font-size: 1.5rem;
+    color: #89AA3A;
+    text-align: center;
+}
 .text-desc1{
     padding: 15vh;
     padding-top: 0;
 }
-.text-desc1 p{
+.alasan1{
     color: #9A9A9A;
     font-size: 1rem;
 }
@@ -156,7 +162,7 @@ body{
     height: 20vh;
     background-color: #ABB066;
     position: relative;
-    top: 55vh;
+    top: 50vh;
     display: flex;
     justify-content: center;
     align-items: center;

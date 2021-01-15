@@ -75,7 +75,11 @@
         <div class="co-desc1">
             <img src="/css/img/desc.png" alt="" class="img-desc1">
             <div class="text-desc1">
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Deleniti odit repellendus possimus totam veniam accusamus voluptatibus temporibus, libero dignissimos sequi eveniet, porro placeat dolores error voluptate dicta. Distinctio, enim eaque.
+                <p class="kenapa1">
+                    Kenapa Siap Taluh?
+                </p>
+                <p class="alasan1">
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Deleniti odit repellendus possimus totam veniam accusamus voluptatibus temporibus, libero dignissimos sequi eveniet, porro placeat dolores error voluptate dicta. Distinctio, enim eaque.
                     Lorem ipsum dolor sit amet consectetur adipisicing elit. Totam cumque quisquam odit alias pariatur nam expedita dolorem modi vel corporis cum accusantium assumenda facere amet ipsam architecto odio, provident commodi?
                     Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae nisi voluptatem labore totam magni molestias voluptas doloribus error sit nihil voluptates a ab, facere velit corporis doloremque maiores rerum quas.
                 <br><br>
